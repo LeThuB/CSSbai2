@@ -1,0 +1,23 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+h1{
+background-color: black;
+color: white;
+text-align: center;
+padding: 20px;
+}
+p{
+    background-color:rgb(161, 161, 161);
+    text-align: center;
+
+}
+a{
+    color: #313131;
+    text-decoration: none;
+    margin-right: 20px; /*khoảng cách giữa các phần tử*/
+}
